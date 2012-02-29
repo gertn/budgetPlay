@@ -1,0 +1,4 @@
+h1. Budget
+
+Budget application created with playframework.
+
