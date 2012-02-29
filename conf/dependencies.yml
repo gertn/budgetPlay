@@ -1,0 +1,8 @@
+# Application dependencies
+
+require:
+    - play
+    - com.google.guava -> guava r05
+    - org.easytesting -> fest-assert 1.4:
+        id: test
+    

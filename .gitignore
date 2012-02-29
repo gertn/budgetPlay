@@ -1,0 +1,15 @@
+# IDE and editors
+*~
+eclipse
+.amateras
+.settings
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+/tmp
+/modules
+/lib
+/test-result
+/logs
